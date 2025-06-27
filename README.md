@@ -1,0 +1,2 @@
+# PythonGenAI
+Learning purpose
